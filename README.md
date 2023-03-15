@@ -2,7 +2,7 @@
 this is a hello world program in Golang
 ## How to use
 ```bash
-git clone https://github.com/CodereInc/HelloWorld.git
+git clone https://github.com/isNagatoYuki/HelloWorld.git
 cd HelloWorld
 go build -ldflags "-s -w" -o helloworld.go
 ./helloworld
@@ -12,4 +12,4 @@ If you want to contribute to this project, just fork it and make a pull request.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-[1]:https://github.com/CodereInc/HelloWorld/blob/master/LICENSE
+[1]:https://github.com/isNagatoYuki/HelloWorld/blob/master/LICENSE
